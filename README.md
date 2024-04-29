@@ -7,6 +7,7 @@ Benvenuti nella nostra comunità di gioco di **GDR al buio e Open Table a Piacen
    - Inclusività: Rispettiamo e accogliamo persone di tutte le identità di genere, orientamenti sessuali, etnie, religioni e abilità. Ognuno è benvenuto qui.
    - Niente Politica: Per mantenere un ambiente di gioco disteso e divertente, evitiamo discussioni politiche durante le sessioni. Qui ci incontriamo per divertirci e lasciare fuori le questioni politiche.
    - No Razzismo: Sia nel gioco che nelle interazioni fuori dal tavolo, non tolleriamo alcuna forma di discriminazione o linguaggio razzista.
+   - No Discorsi Religiosi: Evitiamo discussioni religiose durante le sessioni per mantenere l'attenzione sul gioco e garantire un'esperienza neutrale per tutti i partecipanti.
 
 Per i **Master**:
   -  Sessioni Gratuite: Ogni attività di gioco, dalle sessioni ai materiali, è gratuita per tutti i partecipanti. Ci impegniamo a condividere le nostre passioni senza chiedere compensi monetari.
