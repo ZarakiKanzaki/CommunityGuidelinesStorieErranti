@@ -15,4 +15,4 @@ Per i **Master**:
 
 Per i **Giocatori**:
   -  Essere Rispettosi: Rispetta gli altri giocatori e i loro personaggi. Evita comportamenti tossici, linguaggio offensivo o atteggiamenti che potrebbero rendere l'esperienza di gioco negativa per gli altri.
-  -  Non Essere un "Mostro" al Tavolo: Ricorda che siamo qui per divertirci e creare storie interessanti insieme. Evita di mettere gli altri giocatori in situazioni scomode o spiacevoli senza il loro consenso.
+  -  Non Essere il "Mostro" al Tavolo: Ricorda che siamo qui per divertirci e creare storie interessanti insieme. Evita di mettere gli altri giocatori in situazioni scomode o spiacevoli senza il loro consenso.
