@@ -5,7 +5,12 @@ Di seguito verranno aggiunte diverse domande e risposte comuni
 
 Q: Come mi iscrivo ad una sessione di Open Table postato sulla community?
 
-A: Nell'annuncio verrà specificato luogo, ora e data e il relativo link a registrarsi
+A: Nell'annuncio verrà specificato luogo, ora e data e il relativo link a registrarsi, segui la procedura qui sotto:
+
+1. Clicca sul link per registrarsi
+2. Ti si presenterà un Foglio Google con una serie di schede per ogni gioco attivo: seleziona il gioco al quale vuoi registrarti. (se non sei familiare con i fogli google vai [qui](https://support.google.com/a/users/answer/9282959?hl=it#sheets-quick-start) )
+3. Inserisci il tuo nome o il tuo alias nel primo spazio libero nella sessione alla quale vuoi registrarti
+4. Se i posti gialli e verdi sono finiti, segna comunque il tuo nome, potrebbero liberarsi dei posti oppure si potrebbero organizzare più sessioni
 
 ---
 
@@ -18,7 +23,7 @@ A: Inserisciti comunque negli iscritti nella sezione gialla, in quel caso sei in
 
 Q: non posso più partecipare, come faccio?
 
-A: Scrivi pure ad uno dei due admin e loro gestiranno la coda di attesa.
+A: Scrivi pure ad uno degli admin e loro gestiranno la coda di attesa.
 
 ---
 
