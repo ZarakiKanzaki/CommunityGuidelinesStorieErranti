@@ -12,6 +12,7 @@ Benvenuti nella nostra comunità di gioco di **GDR al buio e Open Table a Piacen
 Per i **Master**:
   -  Sessioni Gratuite: Ogni attività di gioco, dalle sessioni ai materiali, è gratuita per tutti i partecipanti. Ci impegniamo a condividere le nostre passioni senza chiedere compensi monetari.
   -  Accessibilità del Gioco: Assicurati che il tuo tavolo sia inclusivo e adatto a tutti i giocatori. Se necessario, adatta le linee guida del gioco per garantire una partecipazione piacevole a tutti. Consigliamo di leggere [Attrezzi per giocare sicuro](https://dietroschermo.wordpress.com/wp-content/uploads/2023/04/attrezzi-per-giocare-sicuro-1.pdf) oppure [Big Model — Linee e veli](https://it.wikipedia.org/wiki/Big_Model#Linee_e_veli).
+  - Altri approfondimenti sulla sicurezza in gioco: [Sicurezza](https://drive.google.com/file/d/1J1qpwlpUqfPVC-yE-fcJ-txlsyovV4D4/view) e [Script Change](https://grumpybearstuff.com/script-change-o-cambiare-il-copione-alcuni-strumenti-per-il-gioco-di-ruolo/)
 
 Per i **Giocatori**:
   -  Essere Rispettosi: Rispetta gli altri giocatori e i loro personaggi. Evita comportamenti tossici, linguaggio offensivo o atteggiamenti che potrebbero rendere l'esperienza di gioco negativa per gli altri.
